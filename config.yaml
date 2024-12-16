@@ -6,3 +6,6 @@ gl_server: ['10.0.0.166','10.0.0.2'] # <-- all instances here
 
 # Override
 mt_server: 10.0.0.2:5100
+
+dns_txt: True
+dns_txt_domain: ''
