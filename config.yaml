@@ -1,0 +1,8 @@
+---
+sd_server: 10.0.0.166:10002
+sd_guid: 4631a44f-9312-4887-be4d-5d906e9b9bae
+
+gl_server: ['10.0.0.166','10.0.0.2'] # <-- all instances here
+
+# Override
+mt_server: 10.0.0.2:5100
